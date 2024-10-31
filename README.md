@@ -33,3 +33,4 @@ npm i @ngx-translate/core
 moment
 ngx-device-detector@6
 bootstrap
+@popperjs/core
